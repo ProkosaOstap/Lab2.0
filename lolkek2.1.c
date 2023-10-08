@@ -5,6 +5,7 @@
 
 int main ()
 {
+    // Initialisation of data
     double x, z1, z2;
     printf("Enter the x: ");
     scanf("%2Lf", &x);
